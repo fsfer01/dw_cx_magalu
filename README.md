@@ -1,5 +1,14 @@
 # DW para área de CX no MAGALU 🤓
 
+# Resultados com o Projeto:
+
+| Antes | Descrição |Depois | Descrição |
+| ------ | ------ | ------ | ------ |
+| Custo alto de CLOUD | Pessoas executavam e realizava extrações diversas vezes. |x|z
+| Trabalho 100 % manual |Após extração, tudo era criado em cima de excel, demandando tempo e alto esforço.|x|z
+| Confiabilidade baixa | Após extração da base, era feito várias tratativas em cima da base... abrindo possibilidade para erros Humanos. |x|z
+| Lentidão | Cada extração variava de 1 milhão de registro pra cima. Pessoal tinha que fazer isso rodar no Excel.|x|z
+
 ### FLUXO ANTES DO PROJETO⬇️:
 ![DW_MAGALU (2)](https://user-images.githubusercontent.com/78058494/230535437-0b24d4fc-2a89-42f3-a0ba-3a6c1e6737f0.png)
 Problemas na situação: 
