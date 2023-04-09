@@ -13,7 +13,8 @@ Após o time fazer toda extração de dados no BQ, eles investiam muito tempo pa
 [![N|Solid](https://filestore.community.support.microsoft.com/api/images/9ccf9577-9d29-4fdb-9d49-c5ae0c5cd8da)](https://nodesource.com/products/nsolid)
 
 ### FLUXO APÓS CONCLUSÃO DO PROJETO⬇️:
-![DW_MAGALU (2)](https://user-images.githubusercontent.com/78058494/230535437-0b24d4fc-2a89-42f3-a0ba-3a6c1e6737f0.png)
+![PÓS_DW_MAGALU (2)](https://user-images.githubusercontent.com/78058494/230750967-4759fb1d-f449-4445-b336-970af24b409c.png)
+
 ### Ganhos na solução: 
 
 | Resumo | Descrição |
