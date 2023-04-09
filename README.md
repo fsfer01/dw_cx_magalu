@@ -1,27 +1,27 @@
 # DW para área de CX no MAGALU 🤓
 
-# Resultados com o Projeto:
-
-| Antes | Descrição |Depois | Descrição |
-| ------ | ------ | ------ | ------ |
-| Custo alto de CLOUD | Pessoas executavam e realizava extrações diversas vezes. |x|z
-| Trabalho 100 % manual |Após extração, tudo era criado em cima de excel, demandando tempo e alto esforço.|x|z
-| Confiabilidade baixa | Após extração da base, era feito várias tratativas em cima da base... abrindo possibilidade para erros Humanos. |x|z
-| Lentidão | Cada extração variava de 1 milhão de registro pra cima. Pessoal tinha que fazer isso rodar no Excel.|x|z
 
 ### FLUXO ANTES DO PROJETO⬇️:
 ![DW_MAGALU (2)](https://user-images.githubusercontent.com/78058494/230535437-0b24d4fc-2a89-42f3-a0ba-3a6c1e6737f0.png)
-Problemas na situação: 
-* xxx
-* xxx 
-* xxx
+## Problemas com mais descrições por tópicos:
+
+### Custo alto de CLOUD:
+Esse é um problema que várias empresas já passaram, e vão passar sem auxílio de um profissional. Nessa empresa onde trabalhei e prestei serviço, era uma equipe de 6 analistas, onde tinham acesso ao Big Query da empresa para fazer consultas e extrações. Após analisar uma semana de sua rotina, percebi que, por falta de comunicação e também por falta de uma orientação,os analistas executavam e extraia uma mesma consulta 6 vezes ao dia. Uma de várias consultas tinha um processamento de em média 500 GB! O Google cobra $5,00 por Terabyte processado. Isso significa que só essa consulta de 500 GB gerava um custo médio mensal de $315 - (($2,50 * 6 ) * 21 - dias úteis no mês) 
+### Trabalho 100 % manual:
+Após o time fazer toda extração de dados no BQ, eles investiam muito tempo para carregar o csv no excel via power query, fazer às transformações como procv e etc ... isso levava em média 02 à 04 horas, pois dependia muito do excel não travar por falta de memória, erro de fórmula e etc ... 
+
+[![N|Solid](https://filestore.community.support.microsoft.com/api/images/9ccf9577-9d29-4fdb-9d49-c5ae0c5cd8da)](https://nodesource.com/products/nsolid)
 
 ### FLUXO APÓS CONCLUSÃO DO PROJETO⬇️:
 ![DW_MAGALU (2)](https://user-images.githubusercontent.com/78058494/230535437-0b24d4fc-2a89-42f3-a0ba-3a6c1e6737f0.png)
-Ganhos na solução: 
-* Economia de $ mensalmente em CLOUD
-* Ganho de x horas diárias por analista
-* Indicadores, KPI's, OKR's e análises já prontas antes das 09 horas da manhã, antes, era necessário o perído da manhã inteiro para levantar os números.
+### Ganhos na solução: 
+
+| Resumo | Descrição |
+| ------ | ------ |
+| Economia de $262,5 mensalmente em CLOUD | Saiu de $315 para & $52,5 (Eram 6 consultas ao dia, em 21 dias ao mês. Reduzimos para 1 consulta ao dia.|
+| Indicadores, KPI's, OKR's e análises já prontas| antes, era necessário o perído da manhã inteiro para levantar os números. |
+| Ganho de 4 horas diárias por analista | O trabalho determinava meio período para cada analista antes da automação.|
+
 
 
 
