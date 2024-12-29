@@ -15,18 +15,11 @@ Após o time fazer toda extração de dados no BQ, eles investiam muito tempo pa
 ### FLUXO APÓS CONCLUSÃO DO PROJETO⬇️:
 ![PÓS_DW_MAGALU (2)](https://user-images.githubusercontent.com/78058494/230750967-4759fb1d-f449-4445-b336-970af24b409c.png)
 
-### Ganhos na solução: 
-![image](https://github.com/user-attachments/assets/66ebca4e-2eaa-4f39-9f22-a9293273ab19)
+### RESULTADOS COM ESSA SOLUÇÃO:
+> [!IMPORTANT]
+> Lembrando que na época, o Google cobrava $5,00 dólares por Terabyte processado no BigQuery
 
-
-| Resumo | Descrição |
-| ------ | ------ |
-| Economia de $262,5 mensalmente em CLOUD | Saiu de $315 para & $52,5 (Eram 6 consultas ao dia, em 21 dias ao mês. Reduzimos para 1 consulta ao dia.|
-| Indicadores, KPI's, OKR's e análises já prontas| antes, era necessário o perído da manhã inteiro para levantar os números. |
-| Ganho de 4 horas diárias por analista | O trabalho determinava meio período para cada analista antes da automação.|
-
-
-
+![image](https://github.com/user-attachments/assets/4e748b3c-41ce-4371-ac9c-b706433cd417)
 
 ## Tecnologias utilizadas nesse projeto:
 * PYTHON
@@ -34,11 +27,12 @@ Após o time fazer toda extração de dados no BQ, eles investiam muito tempo pa
 * TABLEAU
 
 ### ⚠️OBSERVAÇÕES IMPORTANTES️:
-Quero deixar bem claro que neste reposítorio, **não tem NENHUMA informação referente à empresa MAGALU**. **Todos os dados e informações foram geradas de forma aleatória  com objetivo de provar meu domínio sobre o conteúdo**. Para qualquer informação, estou à disposição.
+> [!WARNING]
+> Quero deixar bem claro que neste reposítorio, **não existe NENHUMA informação referente à empresa MAGALU**. **Todos os dados e informações foram geradas de forma aleatória com objetivo de apresentar o case dessa solução**. Para qualquer informação, estou à disposição.
 
 # VISUALIZAÇÕES CRIADAS EM CIMA DO DW:
-⚠️**OBSERVAÇÃO**: Essas imagens abaixo são apenas um TEMPLATE de algumas visões que criei quando atuava no MAGALU. Todos os dados, templates que estão nesse repositório são **FICTICIO**, e, para evitar problemas fúturos, mesmo SENDO dados aleatórios, descidi CENSURAR para evitar teorias da conspiração ou algo do tipo.  
-
+> [!WARNING]
+> Essas imagens abaixo são apenas um TEMPLATE de algumas visões que criei quando atuava no MAGALU. Todos os dados, templates que estão nesse repositório são **FICTICIO**, e, para evitar problemas fúturos, mesmo SENDO dados aleatórios, descidi CENSURAR para evitar teorias da conspiração ou algo do tipo.
 
 ![image](https://user-images.githubusercontent.com/78058494/230523054-7d14b938-ef14-45e0-8907-20ce4f33bcca.png)
 ![image](https://user-images.githubusercontent.com/78058494/230523877-8d6515a7-b1a7-492c-9e24-5ba202fffdf4.png)
