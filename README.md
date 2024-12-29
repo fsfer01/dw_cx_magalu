@@ -16,6 +16,8 @@ Após o time fazer toda extração de dados no BQ, eles investiam muito tempo pa
 ![PÓS_DW_MAGALU (2)](https://user-images.githubusercontent.com/78058494/230750967-4759fb1d-f449-4445-b336-970af24b409c.png)
 
 ### Ganhos na solução: 
+![image](https://github.com/user-attachments/assets/66ebca4e-2eaa-4f39-9f22-a9293273ab19)
+
 
 | Resumo | Descrição |
 | ------ | ------ |
