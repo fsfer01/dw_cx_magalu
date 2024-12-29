@@ -36,5 +36,7 @@ Após o time fazer toda extração de dados no BQ, eles investiam muito tempo pa
 
 ![image](https://user-images.githubusercontent.com/78058494/230523054-7d14b938-ef14-45e0-8907-20ce4f33bcca.png)
 ![image](https://user-images.githubusercontent.com/78058494/230523877-8d6515a7-b1a7-492c-9e24-5ba202fffdf4.png)
-
-
+![image](https://github.com/user-attachments/assets/169f50a0-cc53-498c-be7f-d7b298410263)
+![image](https://github.com/user-attachments/assets/cf5d7bf8-d4b9-48ba-8bf6-8af18d7b3bf8)
+![image](https://github.com/user-attachments/assets/3e7edfe0-45c6-431f-98e6-dd63c6087e03)
+![image](https://github.com/user-attachments/assets/ffac8c31-95cb-40bb-9678-3da85489552a)
