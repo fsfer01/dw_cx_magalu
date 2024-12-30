@@ -2,7 +2,8 @@
 Segue abaixo um breve resumo da implantação de um DW na área de CX do Magalu realizado por mim.
 
 ## **FLUXOGRAMA DO PROJETO**⬇️:
-![dw_cx_magalu drawio (1)](https://github.com/user-attachments/assets/6187376f-eb65-41d1-90ab-b5dacbb815aa)
+![dw_cx_magalu drawio (2)](https://github.com/user-attachments/assets/61d8b611-8a7e-48a6-bca0-b04350b51ce7)
+
 
 ## **PROBLEMAS ANTES DA SOLUÇÃO**⬇️:
 
