@@ -22,15 +22,6 @@ Após o time fazer toda extração de dados no BQ, eles investiam muito tempo pa
 
 ![image](https://github.com/user-attachments/assets/4e748b3c-41ce-4371-ac9c-b706433cd417)
 
-## **TECNOLOGIA UTILIZADAS NESSE PROJETO**⬇️:
-* PYTHON
-* SQL
-* TABLEAU
-
-### ⚠️**OBSERVAÇÕES IMPORTANTES️**⬇️:
-> [!WARNING]
-> Quero deixar bem claro que neste reposítorio, **não existe NENHUMA informação referente à empresa MAGALU**. **Todos os dados e informações foram geradas de forma aleatória com objetivo de apresentar o case dessa solução**. Para qualquer informação, estou à disposição.
-
 ## **VISUALIZAÇÕES CRIADAS EM CIMA DO DW**⬇️:
 > [!WARNING]
 > Essas imagens abaixo são apenas um TEMPLATE de algumas visões que criei quando atuava no MAGALU. Todos os dados, templates que estão nesse repositório são **FICTICIO**, e, para evitar problemas fúturos, mesmo SENDO dados aleatórios, descidi CENSURAR para evitar teorias da conspiração ou algo do tipo.
@@ -41,3 +32,12 @@ Após o time fazer toda extração de dados no BQ, eles investiam muito tempo pa
 ![image](https://github.com/user-attachments/assets/cf5d7bf8-d4b9-48ba-8bf6-8af18d7b3bf8)
 ![image](https://github.com/user-attachments/assets/3e7edfe0-45c6-431f-98e6-dd63c6087e03)
 ![image](https://github.com/user-attachments/assets/ffac8c31-95cb-40bb-9678-3da85489552a)
+
+## **TECNOLOGIA UTILIZADAS NESSE PROJETO**⬇️:
+* PYTHON
+* SQL
+* TABLEAU
+
+### ⚠️**OBSERVAÇÕES IMPORTANTES️**⬇️:
+> [!WARNING]
+> Quero deixar bem claro que neste reposítorio, **não existe NENHUMA informação referente à empresa MAGALU**. **Todos os dados e informações foram geradas de forma aleatória com objetivo de apresentar o case dessa solução**. Para qualquer informação, estou à disposição.
