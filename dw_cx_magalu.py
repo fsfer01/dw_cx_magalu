@@ -25,7 +25,7 @@ def main() -> None:
     for arquivo in os.listdir(CAMINHO_DE_CONSULTAS_SQL_PARA_EXTRAIR):
         extrair_dados_do_big_query(
         caminho_da_consulta_sql=os.path.join(CAMINHO_DE_CONSULTAS_SQL_PARA_EXTRAIR, arquivo),
-        projeto_do_big_query='dataplatform-prd')
+        projeto_do_big_query='projeto_do_bigquery')
 
     ##### CHAMANDO FUNÇÃO DE CARGA NO BANCO PARA CAMADA RAW
     for arquivo in os.listdir(CAMINHO_DE_DADOS_RAW):
